@@ -1,6 +1,6 @@
  # Hi 🙋🏻‍♂️ , I'm Dev Sharma
 
-  ## A passionate self taught programmer, Web Developer and problem solver.
+  ## A passionate self taught Programmer, Web Developer and Problem solver.
 
   * 👨🏻‍🎓 Check Out my Portfolio - [Portfolio](https://devportfolio-io.vercel.app/)
   * 📑 Know about my skills and experience - [Resume](https://drive.google.com/file/d/1_rqmdU05EmEnFI1XPcFDX49Kl8QakrdR/view?usp=sharing)
