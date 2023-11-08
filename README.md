@@ -3,7 +3,7 @@
   ## A passionate self taught Programmer, Web Developer and Problem solver.
 
   * 👨🏻‍🎓 Check Out my Portfolio - [Portfolio](https://devportfolio-io.vercel.app/)
-  * 📑 Know about my skills and experience - [Resume](https://drive.google.com/file/d/1_rqmdU05EmEnFI1XPcFDX49Kl8QakrdR/view?usp=sharing)
+  * 📑 Know about my skills and experience - [Resume](https://drive.google.com/file/d/1P5NyQVdcaY_VpM-FkBMZUYW8z9dBiX8s/view?usp=sharing)
   * 📧 How to reach me - [devsharmabsr03@gmail.com](devsharmabsr03@gmail.com)
 
 ## Languages and Tools :-
