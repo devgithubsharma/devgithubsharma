@@ -9,8 +9,11 @@
 ## Languages & APIs :-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" /
+ <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+ <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=openapi&logoColor=white" alt="REST APIs" />
+  
 </p>
 
 ## AI, LLMs & GenAI Stack (LangChain, LangGraph, RAG, LLMs) :- 
@@ -20,6 +23,7 @@
   <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/GenAI-0D1117?style=for-the-badge&logo=robot&logoColor=white" alt="GenAI" />
+ <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
 </p>
 
 ## Cloud & Data Infrastructure (Snowflake, Databricks, AWS, Azure, Terraform)
