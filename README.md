@@ -14,8 +14,6 @@
 <img src="https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/b2e08333-46cb-48ef-aa40-f99d39be22f0" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/>
 <img src="https://github.com/devgithubsharma/Dev-Portfolio.io/assets/96568994/5a8b0d81-98ea-4c8a-95e6-bca4f40e92c8" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/> 
 <img src="https://thumbs.dreamstime.com/b/java-logo-vector-design-commercial-brand-trademark-118452997.jpg" alt="MarineGEO circle logo" style="height: 50px; width:50px;"/> 
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)](https://langchain.com/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white)](https://langchain.com/)
-[![GenAI](https://img.shields.io/badge/GenAI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![LLMs](https://img.shields.io/badge/LLMs-0052CC?style=for-the-badge&logo=robot&logoColor=white)](https://huggingface.co/)
-[![RAG](https://img.shields.io/badge/RAG-4A154B?style=for-the-badge&logo=databricks&logoColor=white)](https://www.databricks.com/)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" alt="FastAPI" height="40" width="40" style="margin-right: 10px;"/>
+  <!-- SQL / PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" alt="SQL" height="40" width="40" style="margin-right: 10px;"/>
