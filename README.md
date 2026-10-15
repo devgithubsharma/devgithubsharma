@@ -8,48 +8,33 @@
 
 ## Languages & APIs :-
 <p align="left">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/fastapi.svg" alt="FastAPI" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- SQL / PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/postgresql.svg" alt="SQL" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ## AI, LLMs & GenAI Stack (LangChain, LangGraph, RAG, LLMs) :- 
 <p align="left">
-  <!-- LangChain -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/langchain.svg" alt="LangChain" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- LangGraph (Using custom graph/node representation or fallback icon) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/graphql.svg" alt="LangGraph" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- OpenAI / LLMs -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" alt="LLMs / OpenAI" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Hugging Face (RAG / Models) -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/huggingface.svg" alt="RAG / HuggingFace" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=huggingface&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/GenAI-0D1117?style=for-the-badge&logo=robot&logoColor=white" alt="GenAI" />
 </p>
 
 ## Cloud & Data Infrastructure (Snowflake, Databricks, AWS, Azure, Terraform)
 <p align="left">
-  <!-- Snowflake -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/snowflake.svg" alt="Snowflake" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Databricks -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" alt="Databricks" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/amazonaws.svg" alt="AWS" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Azure -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/microsoftazure.svg" alt="Azure" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Terraform -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/terraform.svg" alt="Terraform" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
+  <img src="https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
 ## Data Engineering & Pipelines (Spark, Airflow, dbt, Kafka)
 <p align="left">
-  <!-- Apache Spark -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachespark.svg" alt="Spark" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Apache Airflow -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apacheairflow.svg" alt="Airflow" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- dbt -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/dbt.svg" alt="dbt" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
-  <!-- Apache Kafka -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/apachekafka.svg" alt="Kafka" height="28" width="28" style="background-color: #ffffff; padding: 6px; border-radius: 8px; margin-right: 8px;"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-0D1117?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Spark" />
+  <img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
