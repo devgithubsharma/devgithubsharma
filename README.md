@@ -6,7 +6,7 @@
   * 📑 Know about my skills and experience - [Resume](https://drive.google.com/file/d/1-B5EYZB_ClqgeoC3Krus1wCGyhUPaC4J/view?usp=sharing)
   * 📧 How to reach me - [devsharmabsr03@gmail.com](devsharmabsr03@gmail.com)
 
-## Languages & APIs :-
+## Languages & APIs 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
@@ -16,7 +16,7 @@
   
 </p>
 
-## AI, LLMs & GenAI Stack (LangChain, LangGraph, RAG, LLMs) :- 
+## AI, LLMs & GenAI Stack (LangChain, LangGraph, RAG, LLMs)  
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
@@ -41,4 +41,12 @@
   <img src="https://img.shields.io/badge/Airflow-0D1117?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/Kafka-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+</p>
+
+## Databases 
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Cassandra-0D1117?style=for-the-badge&logo=apachecassandra&logoColor=white" alt="Cassandra" />
 </p>
