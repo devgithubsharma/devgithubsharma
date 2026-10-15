@@ -9,10 +9,10 @@
 ## Languages & APIs :-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" /
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logo=openapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   
 </p>
 
